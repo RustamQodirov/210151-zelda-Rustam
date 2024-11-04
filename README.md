@@ -19,7 +19,7 @@ This project is a top-down perspective game developed in Unity, inspired by the 
 ## Installation
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/RustamQodirov/210151-Rustam-Zelda.git
+   git clone git https://github.com/RustamQodirov/210151-zelda-Rustam.git
    ```
 2. **Open the project in Unity:**
    Ensure you are using Unity version 2021.3.5f1 or higher. 
